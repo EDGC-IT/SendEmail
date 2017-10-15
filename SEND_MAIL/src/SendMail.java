@@ -32,7 +32,7 @@ public class SendMail {
 	private String EMAIL_TITLE;
 	
 	
-	private String EMAIL_CONTENT = "Git hub test by hj";
+	private String EMAIL_CONTENT = "Git hub test by hj - 2";
 	
 	/*
 	private String EMAIL_CONTENT="Gene2Me(www.gene2.me) 를 이용해주시는 회원님께 감사드립니다.\n\n"
